@@ -1,0 +1,30 @@
+p,ol {
+        color: blue;
+	font-family: 'Tangerine', serif;
+        font-size: 38px;
+	text-shadow: 2px 2px 2px #aaa;
+}
+
+html {
+  background-color: #00539F;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 20px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: blue;
+  text-shadow: 3px 3px 1px red; 
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
